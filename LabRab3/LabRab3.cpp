@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-#include "Lab3.h"
 using namespace std;
 using std::cout;
 using std::cin;
