@@ -8,7 +8,7 @@ int main()
 {
     setlocale(LC_ALL, "russian");
     cout << "1." << endl;
-    cout << "Nikita Kharmats Alekseevich, 221-352 " << endl;
+    cout << "Rubailo Egor Vasilyevich, 221-352 " << endl;
 
     cout << "2." << endl;
 
