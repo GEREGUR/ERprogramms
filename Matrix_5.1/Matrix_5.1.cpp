@@ -1,4 +1,4 @@
-﻿<<<<<< < HEAD
+
 #include "Matrix.h"
 #include <iostream>
 #include <iomanip>
@@ -471,4 +471,4 @@ double Matrix::det()
 	delete[]arrind;
 	return det;
 }
->>>>>> > 1eeb851ededc0c51e6761726f5f05c01e650e0b0
+
