@@ -1,0 +1,13 @@
+﻿  Exam.cpp
+C:\Users\User\ERprogramms\Exam\Exam.cpp(25,23): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Users\User\ERprogramms\Exam\Exam.cpp(31,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\ERprogramms\Exam\Exam.cpp(33,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\ERprogramms\Exam\Exam.cpp(78,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\ERprogramms\Exam\Exam.cpp(80,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\ERprogramms\Exam\Exam.cpp(170,25): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "choice"
+C:\Users\User\ERprogramms\Exam\Exam.cpp(170,35): error C2059: синтаксическая ошибка: )
+C:\Users\User\ERprogramms\Exam\Exam.cpp(171,52): error C2059: синтаксическая ошибка: ;
+C:\Users\User\ERprogramms\Exam\Exam.cpp(173,9): error C2181: недопустимый else без парного if
+C:\Users\User\ERprogramms\Exam\Exam.cpp(188,5): error C2059: синтаксическая ошибка: return
+C:\Users\User\ERprogramms\Exam\Exam.cpp(189,1): error C2059: синтаксическая ошибка: }
+C:\Users\User\ERprogramms\Exam\Exam.cpp(189,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
